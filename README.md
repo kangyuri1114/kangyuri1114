@@ -1,5 +1,5 @@
 ### Hi there 👋
-![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula)
+![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **kangyuri1114/kangyuri1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
