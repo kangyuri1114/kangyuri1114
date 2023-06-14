@@ -6,17 +6,7 @@
 
 ![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangyuri1114&hide_progress=true)
 
-<h3 align="center"><b>About me</b></h3>
-<p align="center"><a href="[자신의 블로그 주소](https://velog.io/@kangyuri1114)" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </a></p>
-  <p align="center"><a href="[자신의 블로그 주소](yuri3334@gmail.com)" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a></p>
-  <p align="center"><a href="[자신의 블로그 주소]([https://velog.io/@kangyuri1114](https://www.notion.so/RIYU-RESUME-f640e5898a9a4c3f9b392c6d9297e84b))" target="_blank">
-  <img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=notion&logoColor=white"/>
-  </a></p>
-
+  </br>  </br>
 
 <h3 align="center"><b>🛠 Tech Stacks 🛠</b></h3>
 <p align="center">    
