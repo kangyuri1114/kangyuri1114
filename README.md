@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangyuri1114&hide_progress=true)
+![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula&count_private=true) 
 
   </br>  </br>
 
