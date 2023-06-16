@@ -1,5 +1,5 @@
 ### Welcome 👋
-  
+
 <div align="center">
 
 ![kangyuri1114's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true&theme=dracula&count_private=true) 
@@ -26,7 +26,7 @@
     </br>
     </br>
     
-
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangyuri1114&count_bg=%235181FF&title_bg=%2398CEFF&icon=&icon_color=%2351ADFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   </div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangyuri1114&count_bg=%235181FF&title_bg=%2398CEFF&icon=&icon_color=%2351ADFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
   
