@@ -1,6 +1,8 @@
 ### Welcome 👋
 
+
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true">
 
   </br>  </br>
 
