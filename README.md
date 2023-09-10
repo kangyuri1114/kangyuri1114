@@ -25,8 +25,16 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
     </br>
     </br>
-    
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangyuri1114&count_bg=%235181FF&title_bg=%2398CEFF&icon=&icon_color=%2351ADFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  </div>
 
-  
+
+<h3 align="center"><b>✏️ Tech Blog ✏️</b></h3>
+<div align="center">
+   <a href="https://velog.io/@kangyuri1114/about">
+      <img src="https://img.shields.io/badge/Velog_Yuri-3DDC84?style=badge&logo=Velog&logoColor=white"/>
+   </a>
+</div>
+
+</br>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangyuri1114&count_bg=%235181FF&title_bg=%2398CEFF&icon=&icon_color=%2351ADFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
