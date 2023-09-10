@@ -29,7 +29,7 @@
 
 <h3 align="center"><b>✏️ Tech Blog ✏️</b></h3>
 <div align="center">
-   <a href="https://velog.io/@kangyuri1114/about">
+   <a href="https://velog.io/@kangyuri1114">
       <img src="https://img.shields.io/badge/Velog_Yuri-3DDC84?style=badge&logo=Velog&logoColor=white"/>
    </a>
 </div>
