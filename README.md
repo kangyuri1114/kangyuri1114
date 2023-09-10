@@ -32,7 +32,11 @@
    <a href="https://velog.io/@kangyuri1114">
       <img src="https://img.shields.io/badge/Velog_Yuri-3DDC84?style=badge&logo=Velog&logoColor=white"/>
    </a>
+   <a href="https://www.notion.so/RIYU-RESUME-f640e5898a9a4c3f9b392c6d9297e84b">
+      <img src="https://img.shields.io/badge/Notion-000000?style=badge&logo=Notion&logoColor=white"/>
+   </a>
 </div>
+
 
 </br>
 
