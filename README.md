@@ -1,7 +1,7 @@
 ### Welcome 👋
 ---
 
-<h3><b>- Android Developer </b></h3>
+#### - Android Developer
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 </p>
 
-<h3><b>- About Me ✏️</b></h3>
+#### - About Me ✏️
 <div>
    <a href="https://velog.io/@kangyuri1114">
       <img src="https://img.shields.io/badge/Velog_Yuri-3DDC84?style=badge&logo=Velog&logoColor=white"/>
