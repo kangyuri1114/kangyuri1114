@@ -8,7 +8,7 @@
 ## History
 안드로이드 공부 기록
 <div>
-   <a href="https://your-android-study-records-link">
+   <a href="https://peaceful-minnow-33c.notion.site/beb174a2a06e4fc39a3bcdc4ecec92c0?pvs=4">
       <img src="https://img.shields.io/badge/Android_Study-Your_Color_Here?style=badge&logo=Android&logoColor=white"/>
    </a>
 </div>
