@@ -37,7 +37,7 @@
   - 2023.06 - 2023.09
   - [Github](https://github.com/yourweather/yourweather-android)
   - [Landing Page](https://www.notion.so/4d8249f3157f4cb9bc014ba5567eff6f)
-  
+##
 <img src="https://avatars.githubusercontent.com/u/151904137?s=48&v=4" width=50 /><br/>**hheung! (흥!)** <br/>
   - 마음껏 자랑하고 질투로 성장하는 SNS
   - Sopt 33rd SOPKATHON, Android Developer
@@ -45,12 +45,12 @@
   - [Github](https://github.com/33th-SOPT-SOPKATHON-4/Android)
   - [Landing Page](https://playground.sopt.org/projects/139)
 
+##
 <img src="https://avatars.githubusercontent.com/u/154313174?s=48&v=4" width=50 /> <br/> **하면함**
   - 마음껏 자랑하고 질투로 성장하는 SNS
   - Sopt 33rd APPJAM, Android Developer
   - 2023.12. ~ 진행중 
   - [Github](https://github.com/Team-HMH/HMH-Android)
-  - [Landing Page](https://hmh.framer.website/)
 <br>
 
 ## 
