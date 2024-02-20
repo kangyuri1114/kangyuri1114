@@ -51,6 +51,7 @@
   - **Sopt 33rd APPJAM [우수상]**, Android Developer
   - 2023.12. ~ 진행중 
   - [Github](https://github.com/Team-HMH/HMH-Android)
+  - [Landing Page](https://playground.sopt.org/projects/148)
 <br>
 
 ## 
