@@ -1,3 +1,12 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kangyuri1114"
+  width="600"
+  height="300"
+/>
+</a>
+  
+
 ## Tech skills
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
