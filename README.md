@@ -1,29 +1,12 @@
-## Tech skills
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpackCompose-000000?style=flat-square&logo=jetpackcompose&logoColor=#4285F4">
-</p>
+### Rein
+> 책임감과 오너십을 가장 중요하게 생각하는 개발자, 강유리입니다 </br> </br>
+> #️⃣성장 #️⃣꾸준함 #️⃣오너십 #️⃣책임감</br> </br>
+> ➡️[안드로이드 공부 기록 보러가기](https://www.notion.so/kangyuri1114/Android-beb174a2a06e4fc39a3bcdc4ecec92c0)⬅️
 
-## History
-[➡️안드로이드 공부 기록 보러가기⬅️](https://www.notion.so/kangyuri1114/Android-beb174a2a06e4fc39a3bcdc4ecec92c0)
+</br>
 
-## Community
-- [SOPT](https://www.sopt.org/)
-  - 2023.09. ~ 2024.01.
-  - IT와 벤처 창업에 뜻이 있는 대학생들이 모인 국내 최대 규모의 대학생 연합 IT 벤처 창업 동아리
-  - Do-Sopt 33rd Android Part
-- [YOURSSU](https://yourssu.com)
-  - 2023.09. ~
-  - 숭실인을 위한. 숭실인에 의해 당신의 숭실을 만들어가는 동아리
-  - Android Developer
-- [University Makeus Challenge, UMC Soongsil](https://www.makeus.in/umc)
-  - 4th : 2023.03. ~ 2023.08.
-  - 앱&웹 서비스 런칭에 도전하는 대학생 IT 연합동아리
-  - 4th Android Challenger
 
-## Projects
+### Projects
 
 <img src="https://avatars.githubusercontent.com/u/138274494?s=48&v=4" width=50 /> <br/>   **유어웨더** 
   - 나의 감정날씨로 디자인되는 나만의 기록 어플리케이션
@@ -76,6 +59,28 @@
   - 2024.07. ~ 진행중 
   - [Github](https://github.com/yourssu/Handy-Android)
 <br>
+
+### Tech skills
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/jetpackCompose-000000?style=flat-square&logo=jetpackcompose&logoColor=#4285F4">
+</p>
+
+### Community
+- [SOPT](https://www.sopt.org/)
+  - 2023.09. ~ 2024.01.
+  - IT와 벤처 창업에 뜻이 있는 대학생들이 모인 국내 최대 규모의 대학생 연합 IT 벤처 창업 동아리
+  - Do-Sopt 33rd Android Part
+- [YOURSSU](https://yourssu.com)
+  - 2023.09. ~
+  - 숭실인을 위한. 숭실인에 의해 당신의 숭실을 만들어가는 동아리
+  - Android Developer
+- [University Makeus Challenge, UMC Soongsil](https://www.makeus.in/umc)
+  - 4th : 2023.03. ~ 2023.08.
+  - 앱&웹 서비스 런칭에 도전하는 대학생 IT 연합동아리
+  - 4th Android Challenger
 
 ## 
 <img src="https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true">
