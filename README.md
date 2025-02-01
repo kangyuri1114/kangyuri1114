@@ -74,6 +74,7 @@
   - 앱&웹 서비스 런칭에 도전하는 대학생 IT 연합동아리
   - 4th Android Challenger
  </br>
+ 
 ### Tech skills
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
