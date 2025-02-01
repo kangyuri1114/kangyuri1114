@@ -8,19 +8,13 @@
 
 ### Projects
 
-<img src="https://avatars.githubusercontent.com/u/138274494?s=48&v=4" width=50 /> <br/>   **유어웨더** 
-  - 나의 감정날씨로 디자인되는 나만의 기록 어플리케이션
-  - **UMC 4th Project**, Android Developer
-  - 2023.06 - 2023.09
-  - [Github](https://github.com/yourweather/yourweather-android)
-  - [Landing Page](https://www.notion.so/4d8249f3157f4cb9bc014ba5567eff6f)
 ##
-<img src="https://avatars.githubusercontent.com/u/151904137?s=48&v=4" width=50 /><br/>**hheung! (흥!)** <br/>
-  - 마음껏 자랑하고 질투로 성장하는 SNS
-  - **Sopt 33rd SOPKATHON [대상]**, Android Developer
-  - 2023.11.
-  - [Github](https://github.com/33th-SOPT-SOPKATHON-4/Android)
-  - [Landing Page](https://playground.sopt.org/projects/139)
+<img src="https://avatars.githubusercontent.com/u/81421323?s=200&v=4" width=50 /> <br/> **Handy**
+  - Yourssu 자체 디자인 시스템, 내 손 안의 handy
+  - Android Developer, PM
+  - 2024.07. ~ 진행중 
+  - [Github](https://github.com/yourssu/Handy-Android)
+<br>
 
 ##
 <img src="https://avatars.githubusercontent.com/u/154313174?s=48&v=4" width=50 /> <br/> **하면함**
@@ -33,16 +27,6 @@
 <br>
 
 ##
-<img src="https://avatars.githubusercontent.com/u/163310323?s=48&v=4" width=50 /> <br/> **SSUPlector**
-  - 학생들이 자신의 프로젝트를 알리고, 다른 프로젝트를 통해 영감을 얻을 수 있는 공간, 슈플렉터
-  - 숭실대학교 IT대학 내에서 개발된 프로젝트들을 모아보는 아카이빙 서비스
-  - **2024 숭실대학교 소프트웨어공모전 [총장상: 1위] 수상**, Android Developer[안드로이드 1인 개발]
-  - 2024.03. ~ 2024.09 
-  - [Github](https://github.com/SSU-Plector/SSU-Plector-Android)
-<br>
-
-
-##
 <img src="https://avatars.githubusercontent.com/u/179388826?s=48&v=4" width=50 /> <br/> **CareVision**
   - 환자 곁에서 늘 함께, 케어비전
   - 홈캠을 활용해 환자 실시간 모니터링 및 이상행동 감지에 대한 알림을 받는 간호사용 서비스
@@ -53,12 +37,32 @@
 <br>
 
 ##
-<img src="https://avatars.githubusercontent.com/u/81421323?s=200&v=4" width=50 /> <br/> **Handy**
-  - Yourssu 자체 디자인 시스템, 내 손 안의 handy
-  - Android Developer, PM
-  - 2024.07. ~ 진행중 
-  - [Github](https://github.com/yourssu/Handy-Android)
+<img src="https://avatars.githubusercontent.com/u/163310323?s=48&v=4" width=50 /> <br/> **SSUPlector**
+  - 학생들이 자신의 프로젝트를 알리고, 다른 프로젝트를 통해 영감을 얻을 수 있는 공간, 슈플렉터
+  - 숭실대학교 IT대학 내에서 개발된 프로젝트들을 모아보는 아카이빙 서비스
+  - **2024 숭실대학교 소프트웨어공모전 [총장상: 1위] 수상**, Android Developer[안드로이드 1인 개발]
+  - 2024.03. ~ 2024.09 
+  - [Github](https://github.com/SSU-Plector/SSU-Plector-Android)
 <br>
+
+##
+<img src="https://avatars.githubusercontent.com/u/138274494?s=48&v=4" width=50 /> <br/>   **유어웨더** 
+  - 나의 감정날씨로 디자인되는 나만의 기록 어플리케이션
+  - **UMC 4th Project**, Android Developer
+  - 2023.06 - 2023.09
+  - [Github](https://github.com/yourweather/yourweather-android)
+  - [Landing Page](https://www.notion.so/4d8249f3157f4cb9bc014ba5567eff6f)
+<br>
+
+##
+<img src="https://avatars.githubusercontent.com/u/151904137?s=48&v=4" width=50 /><br/>**hheung! (흥!)** <br/>
+  - 마음껏 자랑하고 질투로 성장하는 SNS
+  - **Sopt 33rd SOPKATHON [대상]**, Android Developer
+  - 2023.11.
+  - [Github](https://github.com/33th-SOPT-SOPKATHON-4/Android)
+  - [Landing Page](https://playground.sopt.org/projects/139)
+<br>
+
 
 ### Community
 - [SOPT](https://www.sopt.org/)
