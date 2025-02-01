@@ -60,14 +60,6 @@
   - [Github](https://github.com/yourssu/Handy-Android)
 <br>
 
-### Tech skills
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpackCompose-000000?style=flat-square&logo=jetpackcompose&logoColor=#4285F4">
-</p>
-
 ### Community
 - [SOPT](https://www.sopt.org/)
   - 2023.09. ~ 2024.01.
@@ -81,6 +73,15 @@
   - 4th : 2023.03. ~ 2023.08.
   - 앱&웹 서비스 런칭에 도전하는 대학생 IT 연합동아리
   - 4th Android Challenger
+ </br>
+### Tech skills
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/jetpackCompose-000000?style=flat-square&logo=jetpackcompose&logoColor=#4285F4">
+</p>
+
 
 ## 
 <img src="https://github-readme-stats.vercel.app/api?username=kangyuri1114&show_icons=true">
