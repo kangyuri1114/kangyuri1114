@@ -9,14 +9,6 @@
 ### Projects
 
 ##
-<img src="https://avatars.githubusercontent.com/u/81421323?s=200&v=4" width=50 /> <br/> **Handy**
-  - Yourssu 자체 디자인 시스템, 내 손 안의 handy
-  - Android Developer, PM
-  - 2024.07. ~ 진행중 
-  - [Github](https://github.com/yourssu/Handy-Android)
-<br>
-
-##
 <img src="https://avatars.githubusercontent.com/u/154313174?s=48&v=4" width=50 /> <br/> **하면함**
   - 스마트폰 중독 탈출, 너도 하면함!
   - 스마트폰을 무의식적으로 사용하는 사람들의 과도한 이용시간을 줄여줄 수 있는 디지털 디톡스 솔루션 
@@ -24,6 +16,14 @@
   - 2023.12. ~ 진행중 
   - [Github](https://github.com/Team-HMH/HMH-Android)
   - [Landing Page](https://playground.sopt.org/projects/148)
+<br>
+
+##
+<img src="https://avatars.githubusercontent.com/u/81421323?s=200&v=4" width=50 /> <br/> **Handy**
+  - Yourssu 자체 디자인 시스템, 내 손 안의 handy
+  - Android Developer, PM
+  - 2024.07. ~ 진행중 
+  - [Github](https://github.com/yourssu/Handy-Android)
 <br>
 
 ##
